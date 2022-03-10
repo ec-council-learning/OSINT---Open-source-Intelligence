@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Cover page" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1539188429.88" ts_lastsave="1539188507.43" unique_id="1">
+		<rich_text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</rich_text>
+		<rich_text justification="center" weight="heavy">OSINT (Open Source Intellingence) Investigation report</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="OSINT Investigation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1539188446.09" ts_lastsave="1555087665.64" unique_id="2">
+			<rich_text>OSINT Investigation requested by: 
+
+OSINT Investigator(s): 
+
+Reason for OSINT investigation: 
+
+Goals:
+
+Goal success:
+
+Goal misses (and why):
+
+Findings: 
+
+End date:
+
+Conclusion:
+
+Contact information for investigator(s):
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Media" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1539188686.37" ts_lastsave="1539188686.37" unique_id="3">
+				<rich_text></rich_text>
+			</node>
+		</node>
+	</node>
+</cherrytree>

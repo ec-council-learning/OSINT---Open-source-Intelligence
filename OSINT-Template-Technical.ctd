@@ -1,0 +1,309 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Cover page" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="1">
+		<rich_text></rich_text>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Disclaimer OSINT" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="2">
+		<rich_text weight="heavy">Disclaimer:
+ 
+ </rich_text>
+		<rich_text> 
+(OSINT) 
+The  information obtained will be shared with the previously specified  individuals listed on the information page only. The
+information  obtained will be gathered by publicly available information only. At no  time will any any techniques that involve
+the use of keyloggers, MITM  (man in the middle) attacks, or any other direct pentesting techniques  be used in the gathering
+of information. The final report will be  presented to the authorized client at the time of completion or at the  request of the
+client.
+  
+ 
+  
+The computer used will be a clean VM image and restored to the previous state at the end of the information gathering
+request.
+  
+ 
+  
+The  compiled information at the end of the information gathering request  will either be archived and encrypted or destroyed
+by fileshredding at  the client's request.
+  
+ 
+  
+The  results are presented As is. The client acknowledges that the  information gathered is from publicly available sources and
+may contain  inaccurate results. The investigator will use their best judgement in  obtaining the information for the client.
+
+By signing below the client acknowledges and accepts the above conditions  (Work will not begin unless signed):
+
+
+
+Print client's name:
+
+Client's signature:
+
+Date signed:
+</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="OSINT" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1555087768.08" unique_id="4">
+			<rich_text>Work requested by:
+
+Contact name:
+
+Contact phone number:
+
+Contact email:
+
+Start date:
+
+End date:
+
+Start time:
+
+End time:
+
+Retention of information after handoff?:
+
+Deletion of information (when):
+
+Scope of work (target(s)):
+
+Goals:
+
+Client's additional rules of engagement:
+
+Individuals assigned to task:
+
+Point of contact:
+
+Point of contact phone number:
+
+Point of contact email:
+
+Disclosure of methods used required?:
+
+By signing the client agrees that the information provided is acceptable:</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Work done (method)" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="134">
+				<rich_text>Work is done by use of virtual machines. The primary OS uses is Linux Buscador.
+
+All jobs are done on a &quot;clean&quot; image ie. snapshot of original ISO image
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="IP lookup" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1538668779.78" ts_lastsave="1538668782.82" unique_id="6">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Maltego" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1538668684.4" ts_lastsave="1538668689.49" unique_id="3">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Have i been pwned &amp; Dehashed" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1538668660.34" unique_id="135">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Phone number lookup" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1538668736.59" ts_lastsave="1538668751.97" unique_id="5">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Information obtained through search engines" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="32">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Employee details" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="36">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Login pages found" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="37">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Internet portals" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="38">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Media" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="39">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="other" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="40">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Information obtained through People Seach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="33">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Date of birth" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="41">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Contact details" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="42">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Email ID(s)" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="43">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Photos" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="44">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Location" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="45">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Other information" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="46">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Information obtained from Google" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="34">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Standard search" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="47">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Google operators" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="48">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Others" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="49">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Google maps and images" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="133">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Information obtained through social network sites" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="35">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Personal profiles" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="50">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Work related information" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="51">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="News and partner information" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="52">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Education and employment background" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="53">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Media" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="54">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Other" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="55">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Information obtained through website footprinting" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="63">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Operating enviroment" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="64">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Filesystem structure" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="65">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Scripting platforms used" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="66">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Contact details" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="67">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="CMS (Content management system)" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="68">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Others" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="69">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Information obtained through email footprinting" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="75">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Copy of email" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="80">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="IP address" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="76">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="GPS location" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="77">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Authentication system used by mail server" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="78">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Other" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="79">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Information obtained through completive intelligence" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="88">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Financial details" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="85">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Project plans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="86">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Others" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="87">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Information obtained through WHOIS footprinting" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="98">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Domain name search" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="99">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Contact details of domain owner" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="100">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Domain name servers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="101">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Netrange" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="102">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Domain creation date" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="103">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Domain expire date" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="104">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Domain provider" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="105">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Others" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="106">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Information obtained through DNS footprinting" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="111">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Location of DNS servers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="112">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Type of servers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="113">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Others" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="114">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Gaming Alias" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1521304629.51" ts_lastsave="1538668821.55" unique_id="137">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Xbox" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1521304639.35" ts_lastsave="1521304675.43" unique_id="138">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Playstation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1521304648.12" ts_lastsave="1521304677.55" unique_id="139">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Steam" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1521304653.17" ts_lastsave="1521304680.12" unique_id="140">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Nintendo" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1521304670.8" ts_lastsave="1521304683.29" unique_id="141">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Other" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1521304689.3" ts_lastsave="1521304689.3" unique_id="142">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Media scan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="0.0" unique_id="136">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="OSINT conclusion and recommendation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="0.0" ts_lastsave="1521304129.93" unique_id="7">
+				<rich_text>Time spent (If required):</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Forums" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1541367316.52" ts_lastsave="1541367391.23" unique_id="8">
+				<rich_text>Information collected from unlisted forums:
+
+Forum name:
+
+Forum URL:
+
+Findings:
+</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="4chan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1541367374.3" ts_lastsave="1541367374.3" unique_id="9">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="8chan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1541367384.74" ts_lastsave="1541367384.74" unique_id="10">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Wikileaks" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1541367391.23" ts_lastsave="1541367391.23" unique_id="11">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+	</node>
+</cherrytree>
